@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunocoracao&show_icons=true&count_private=true)
+- 🐳 I’m currently working on Docker as a Staff Product Manager
+- 🚀 Personal blog at [nunocoracao.com](https://nunocoracao.com)
 
 
+![Nuno's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunocoracao&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunocoracao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Blowfish](https://github-readme-stats.vercel.app/api/pin/?username=nunocoracao&repo=blowfish)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **nunocoracao/nunocoracao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
