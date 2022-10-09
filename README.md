@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🐳 I’m currently working on Docker as a Staff Product Manager
+- 🐳 I’m currently working at Docker
 - 🚀 Personal blog at [nunocoracao.com](https://nunocoracao.com)
 
 
