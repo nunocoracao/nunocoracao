@@ -4,6 +4,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunocoracao&show_icons=true)
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunocoracao&show_icons=true&count_private=true&card_width=100%)
+
 <!--
 **nunocoracao/nunocoracao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
