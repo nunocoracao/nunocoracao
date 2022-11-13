@@ -3,7 +3,7 @@
 - 🐳 I’m currently working at Docker
 - 🚀 Personal blog at [nunocoracao.com](https://nunocoracao.com)
 
-<a href="https://www.buymeacoffee.com/nunocoracao"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=nunocoracao&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a target="_blank" href="https://www.buymeacoffee.com/nunocoracao"><img class="nozoom" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=nunocoracao&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 
 ![Nuno's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunocoracao&show_icons=true&count_private=true)
