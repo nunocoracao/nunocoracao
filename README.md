@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a rel="me" href="https://masto.ai/@nunocoracao"></a>
+<a rel="me" href="https://masto.ai/@nunocoracao">mastodon</a>
