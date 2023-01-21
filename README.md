@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-- 🐳 I’m currently working at Docker
+- 🐳 working as a Staff Product Manager @ Docker 
+- ⭐️ helping startups @ [AWS Loft](https://aws-startup-lofts.com/emea/)
+- 📚 mentoring @ [mentorcruise](https://mentorcruise.com/mentor/nunocorao/)
+- 🐡 Maintaining Blowfish, open-source theme for Hugo @ [Blowfish page](https://blowfish.page)
 - 🚀 Personal blog at [nunocoracao.com](https://nunocoracao.com)
 
 <a target="_blank" href="https://www.buymeacoffee.com/nunocoracao"><img class="nozoom" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=nunocoracao&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 
-![Nuno's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunocoracao&show_icons=true&count_private=true)
+![Nuno's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunocoracao&show_icons=true&count_private=true&theme=dark)
 
 <!--
 **nunocoracao/nunocoracao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
