@@ -4,7 +4,7 @@
 [![Twitter badge](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/nunocoracao)
 
 - 🐳 working as a Staff Product Manager @ Docker 
-- 🐡 Maintaining Blowfish, open-source theme for Hugo @ [Blowfish page](https://blowfish.page)
+- 🐡 Creator and maintainer of Blowfish @ [Blowfish page](https://blowfish.page)
 - 🚀 Personal blog - [n9o.xyz](https://n9o.xyz)
 - 📚 mentoring @ [mentorcruise](https://mentorcruise.com/mentor/nunocorao/)
 
