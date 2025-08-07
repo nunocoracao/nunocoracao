@@ -1,9 +1,10 @@
 ### Hi there 👋
+🧠 Principal PM @ Docker (AI, agents, infra) · Creator of Blowfish · Ex-founder · Mentor & advisor
 
 [![Twitter badge](https://img.shields.io/twitter/follow/nunocoracao?style=social)](https://twitter.com/nunocoracao)
 [![Twitter badge](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/nunocoracao)
 
-- 🐳 Principal Product Manager @ Docker 
+- 🐳 Principal Product Manager @ (Docker)[https://github.com/docker] 
 - 🐡 Creator and maintainer of Blowfish @ [Blowfish page](https://blowfish.page)
 - 🚀 Personal blog - [n9o.xyz](https://n9o.xyz)
 - 📚 mentoring @ [mentorcruise](https://mentorcruise.com/mentor/nunocorao/)
