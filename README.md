@@ -4,6 +4,19 @@
 [![Twitter badge](https://img.shields.io/twitter/follow/nunocoracao?style=social)](https://twitter.com/nunocoracao)
 [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/nunocoracao)
 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+
 - 🐳 Principal Product Manager @ [Docker](https://github.com/docker)
 - 🐡 Creator and maintainer of Blowfish @ [Blowfish page](https://blowfish.page)
 - 🚀 Personal blog - [n9o.xyz](https://n9o.xyz)
