@@ -7,11 +7,12 @@
 [![Twitter badge](https://img.shields.io/twitter/follow/nunocoracao?style=social)](https://twitter.com/nunocoracao)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)
 
-- 🚀 Personal blog - [n9o.xyz](https://n9o.xyz)
-- 🐡 Creator and maintainer of Blowfish @ [Blowfish page](https://blowfish.page)
+- 🔥 Creator and maintainer of Watchfire @ [watchfire.io](https://watchfire.io) - [repo](https://github.com/watchfire-io/watchfire)
+- 🐡 Creator and maintainer of Blowfish @ [blowfish.page](https://blowfish.page) - [repo](https://github.com/nunocoracao/blowfish)
 
 - 🐳 Principal Product Manager @ [Docker](https://github.com/docker) - working on [cagent](https://github.com/docker/cagent)
 - 📚 mentoring @ [mentorcruise](https://mentorcruise.com/mentor/nunocorao/)
+- 🚀 Personal blog - [n9o.xyz](https://n9o.xyz)
 
 
 ![Nuno's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunocoracao&show_icons=true&count_private=true&theme=cobalt&&show=prs_merged_percentage)
