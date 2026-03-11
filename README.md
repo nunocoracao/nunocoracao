@@ -1,5 +1,5 @@
 ### Hi there 👋
-🧠 Principal PM @ Docker (AI, agents, infra) · Creator of Blowfish · Ex-founder · Mentor & advisor
+🧠 Principal PM @ Docker (AI, agents, infra) · Creator of Watchfire and Blowfish · Ex-founder · Mentor & advisor
 
 [![](https://img.shields.io/github/stars/nunocoracao)](https://github.com/nunocoracao)
 [![](https://img.shields.io/github/followers/nunocoracao)](https://github.com/nunocoracao)
