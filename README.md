@@ -7,7 +7,6 @@
 [![Twitter badge](https://img.shields.io/twitter/follow/nunocoracao?style=social)](https://twitter.com/nunocoracao)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)
 
-- 🕯️ Creator and maintainer of Afterlight @ [afterlight.club](https://afterlight.club)
 - 🔥 Creator and maintainer of Watchfire @ [watchfire.io](https://watchfire.io) - [repo](https://github.com/watchfire-io/watchfire)
 - 🐡 Creator and maintainer of Blowfish @ [blowfish.page](https://blowfish.page) - [repo](https://github.com/nunocoracao/blowfish)
 
