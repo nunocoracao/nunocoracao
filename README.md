@@ -17,8 +17,6 @@ prev.
 - 📚 mentoring @ [mentorcruise](https://mentorcruise.com/mentor/nunocorao/)
 
 
-![Nuno's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunocoracao&show_icons=true&count_private=true&theme=cobalt&&show=prs_merged_percentage)
-
 <!--
 **nunocoracao/nunocoracao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
